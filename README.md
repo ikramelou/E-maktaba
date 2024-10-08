@@ -1,6 +1,6 @@
 # E-maktaba
 
-Emaktaba is a JavaFX-based library management system that allows users to efficiently manage books, genres, loans, and members. The application provides various functionalities, including user login, book management, and loan tracking.
+E-maktaba is a JavaFX-based library management system that allows users to efficiently manage books, genres, loans, and members. The application provides various functionalities, including user login, book management, and loan tracking.
 
 ## Features
 
